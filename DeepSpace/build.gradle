@@ -3,7 +3,7 @@ apply plugin: 'war'
 apply plugin: 'pmd'
 apply plugin: 'checkstyle'
 
-
+ 
 
 archivesBaseNME ='Concretepage.com'
 
